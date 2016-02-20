@@ -1,2 +1,2 @@
 # routeros-go
-Library and utilty cli for controlling MikroTic RouerOS
+Library and utilties for controlling MikroTic RouerOS
